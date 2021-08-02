@@ -40,6 +40,10 @@ h1, h3 {
     font-weight: 200;
 }
 
+h3 i {
+    font-size: 24px;
+}
+
 .header-bar a {
     color: #fff;
     text-decoration: none;
@@ -70,7 +74,8 @@ h1, h3 {
 
 .task-title a {
     text-decoration: none;
-    color: #4b5156;
+    /* color: #4b5156; */
+    color: #000;
     margin-left: 10px;
 }
 
